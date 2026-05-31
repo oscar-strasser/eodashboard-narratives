@@ -13,7 +13,7 @@ collections: N9_OMI_trno2-COG, N1_NO2_monthly, N10_OMSO2PCA-COG
 ## <!--{ nav="false" }-->
 <div align="center">
 
-*This trilateral story, produced in collaboration by the [European Space Agency (ESA)](https://www.esa.int), the [National Aeronautics and Space Administration (NASA)](https://www.nasa.gov/), and the [Japan Aerospace Exploration Agency (JAXA)](https://global.jaxa.jp/), is part of the joint narratives featured on [EO Dashboard](https://eodashboard.org/), showcasing the power of open Earth observation data.*
+*This trilateral story, produced in collaboration by the [European Space Agency (ESA)](https://www.esa.in), the [National Aeronautics and Space Administration (NASA)](https://www.nasa.gov/), and the [Japan Aerospace Exploration Agency (JAXA)](https://global.jaxa.jp/), is part of the joint narratives featured on [EO Dashboard](https://eodashboard.org/), showcasing the power of open Earth observation data.*
 
 </div>
 
