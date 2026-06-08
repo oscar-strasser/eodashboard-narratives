@@ -19,7 +19,7 @@
     ],
     "title": "NASA, ESA and JAXA, Working Together to Monitor our Atmosphere",
     "subtitle": "Traffic, wildfires, and power plants all emit air pollutants and greenhouse gases as a product of combustion",
-    "image": "assets/previews/1-Atmosphere_Overview_Picture_ec26434f-5a66-4d24-9cef-e51ebff9d7e4_preview.png",
+    "image": "assets/previews/1-Atmosphere_Overview_Picture_f5ac3ddd-62bb-4767-b2b8-c36a03281d43_preview.png",
     "provider": "agency",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/atmosphere-combustion-intro.md"
   },
@@ -39,7 +39,7 @@
       "S5P-L3GRD-AAI-DAY"
     ],
     "title": "Tracking aerosol plumes from Hunga eruption of 2022",
-    "image": "assets/previews/cover-hunga_ee4a5b36-0719-4175-b9e8-602e917f855b_preview.png",
+    "image": "assets/previews/cover-hunga_bd6cd8bd-2b0a-491c-9028-ede960f1bd34_preview.png",
     "provider": "community",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/hunga_tonga_aerosol_plumes.md"
   },
@@ -61,7 +61,7 @@
     ],
     "title": "Covid-19 Impacts on Greenhouse Gases",
     "subtitle": "Effect of lockdown on Carbon Dioxide",
-    "image": "assets/previews/hero_59782a69-5174-4a9c-bf1e-0db20bdc150a_preview.png",
+    "image": "assets/previews/hero_1a8cf66b-210d-4e1f-9157-064ac421e68b_preview.png",
     "provider": "agency",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/covid-co2.md"
   },
@@ -85,7 +85,7 @@
     ],
     "title": "  The sea ice extent has been rapidly decreasing in recent years as global temperatures have risen",
     "subtitle": "Monitoring Sea Ice Extent and Concentration from Passive Microwave",
-    "image": "assets/previews/SeaIce_87dc25e8-18e4-4b0b-b5ac-e4b00528383a_preview.png",
+    "image": "assets/previews/SeaIce_dfce3f90-f9b4-47f2-9e26-050421794110_preview.png",
     "provider": "agency",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/sea-ice-extent.md"
   },
@@ -104,7 +104,7 @@
     "official": false,
     "title": "Glacier monitoring under global warming trends through remote sensing – An example from The Third Pole",
     "subtitle": "Authors: Sheharyar Ahmad¹, Federico Scoto¹, Ginevra Chelli¹, Arslaan Akhtar¹",
-    "image": "assets/previews/Tajikistan_wikivoyage_banner_21288c95-784b-4fc3-a611-018c3c5ac05c_preview.png",
+    "image": "assets/previews/Tajikistan_wikivoyage_banner_c70d595e-4fe1-45f6-93c5-03ca15d77320_preview.png",
     "provider": "community",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/science-hub-team-5-story.md"
   },
@@ -126,7 +126,7 @@
     ],
     "title": "During COVID-19 lockdowns night lights in central business districts decreased",
     "subtitle": "Read more about how researchers are using night lights to track variations in energy use, migration, and transportation",
-    "image": "assets/previews/13-nightlights_6f0fe845-8b5d-476e-980f-908d29013c67_preview.png",
+    "image": "assets/previews/13-nightlights_efa9d1e9-ef6b-4409-8c6c-f11703a64029_preview.png",
     "provider": "agency",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/nightlights.md"
   },
@@ -147,7 +147,7 @@
     ],
     "title": "Covid-19 Impacts on Air Quality",
     "subtitle": "Effect of lockdown on Nitrogen Dioxide",
-    "image": "assets/previews/hero_35e2627a-cc80-4c94-b153-210fb19ff0c2_preview.png",
+    "image": "assets/previews/hero_15ae81b6-bbde-45c7-87c1-dc5194be5798_preview.png",
     "provider": "agency",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/covid-no2.md"
   },
@@ -167,7 +167,7 @@
     ],
     "title": "Extreme air pollution episodes in Northern India and Pakistan",
     "subtitle": "Authors: Selviga Sinnathamby<sup>1</sup>, Natacha Kaminski<sup>1</sup> & Elie Zoghbi<sup>1</sup>",
-    "image": "assets/previews/cover-pakistan_d7276dc4-963c-4deb-a648-b93637b6c77b_preview.png",
+    "image": "assets/previews/cover-pakistan_c0d3b09c-4dd8-41eb-9a28-cb2c331f814c_preview.png",
     "provider": "community",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/extreme_air_pollution_india_and_pakistan.md"
   },
@@ -187,7 +187,7 @@
     ],
     "title": "Covid-19 Impacts on Rice Planting",
     "subtitle": "Early Rice Planting in Sacramento (California)",
-    "image": "assets/previews/hero_038bcfb8-e4c4-4d3b-a4bf-700802b7dc21_preview.png",
+    "image": "assets/previews/hero_a30aca3c-2485-42ea-bb51-4d511270970c_preview.png",
     "provider": "agency",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/early_rice_planting.md"
   },
@@ -209,7 +209,7 @@
     ],
     "title": "  Algal blooms in lake waters",
     "subtitle": "Read more about observing the increases in algal blooms with ESA, NASA and JAXA satellites",
-    "image": "assets/previews/Cambodian_rivers_89b5c9c6-1a0c-4b84-8235-2d3790b62248_preview.png",
+    "image": "assets/previews/Cambodian_rivers_4144a8b6-0445-4df0-87ec-cc63dd21b7b4_preview.png",
     "provider": "agency",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/lakes-algae.md"
   },
@@ -235,7 +235,7 @@
     ],
     "title": "Rapid Retreat of the Thwaites Glacier",
     "subtitle": "The observations of the glacier are crucial for understanding and adapting to the impacts of global sea level rise",
-    "image": "assets/previews/Thwaites_and_Pine_Island_Glaciers_in_West_Antarctica_ef701e7f-fe5c-4f44-b7f9-224658755262_preview.png",
+    "image": "assets/previews/Thwaites_and_Pine_Island_Glaciers_in_West_Antarctica_f409a317-9558-41d6-a92e-2e39e51d7df5_preview.png",
     "provider": "agency",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/esa-thwaites.md"
   },
@@ -266,7 +266,7 @@
     ],
     "title": " Collaboration on Glaciers and Ice Sheets Research",
     "subtitle": "Researchers and scientists across the globe are paying daily attention to ice formations in Antarctica and Greenland",
-    "image": "assets/previews/Iceberg_in_Antarctica_41214b5c-584b-43d6-96de-56fb5a251f17_preview.png",
+    "image": "assets/previews/Iceberg_in_Antarctica_8718391d-d17f-4309-ad1b-3c3cb15ee646_preview.png",
     "provider": "agency",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/thwaites-intro.md"
   },
@@ -284,7 +284,7 @@
       "N6_geoglam"
     ],
     "title": "El Niño 2023-2024: Impacts on food security",
-    "image": "assets/previews/Crop_yield_pillars_d4593f76-38d0-4716-9aab-c18b7c62d70d_preview.png",
+    "image": "assets/previews/Crop_yield_pillars_648dcf38-f6e9-4a51-a0a8-a14907dd054d_preview.png",
     "provider": "agency",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/el_nino_part_3_food_security.md"
   },
@@ -308,7 +308,7 @@
     ],
     "title": " Australian bushfires in 2019-2020 emitted 700 million metric tons of CO2 into the atmosphere",
     "subtitle": "How Air Pollution affects Climate Change",
-    "image": "assets/previews/8-wildfires_903cf8d6-3238-42f4-b77e-ac500971fae1_preview.png",
+    "image": "assets/previews/8-wildfires_7d927a24-78b6-4afb-a6f4-d94264e9214e_preview.png",
     "provider": "agency",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/australian-bushfires.md"
   },
@@ -335,7 +335,7 @@
     ],
     "title": "Urban Health and Megacities: the case of New Delhi",
     "subtitle": "Satellite perspective provide urban health indicators",
-    "image": "assets/previews/3409479660_54cc371386_b_c6982e12-8232-49eb-837f-d11d37d93c10_preview.png",
+    "image": "assets/previews/3409479660_54cc371386_b_a944f283-8009-4678-b21c-6e710847796b_preview.png",
     "provider": "agency",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/urban-health-final.md"
   },
@@ -357,7 +357,7 @@
     ],
     "title": " Global warming and environmental pollution have led to a rise in the number and severity of HAB outbreaks",
     "subtitle": "Read more about how satellites track phytoplankton’s algal blooms and its impact on tourism and fisheries",
-    "image": "assets/previews/A2019267212500.CalifornaiCoastalBloom_cd0b023c-d8d8-4530-88c5-dd54d36ee171_preview.png",
+    "image": "assets/previews/A2019267212500.CalifornaiCoastalBloom_3c8543d2-3bbb-43a5-a6a1-6613d176e1ee_preview.png",
     "provider": "agency",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/algal-blooms.md"
   },
@@ -381,7 +381,7 @@
     ],
     "title": " The Arctic region shows changes most characteristic of global warming",
     "subtitle": "Read more about the international collaboration for understanding changes in Arctic Sea Ice",
-    "image": "assets/previews/1-sea-ice_17c2f1b7-4506-4a12-a9aa-4fab249cf511_preview.png",
+    "image": "assets/previews/1-sea-ice_d654be5d-189f-4d31-b40e-e19a271aacf8_preview.png",
     "provider": "agency",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/changes-in-arctic-sea-ice.md"
   },
@@ -403,7 +403,7 @@
     ],
     "title": "    Air pollution in India, China and the U.S. have changed significantly over the past two decades",
     "subtitle": "How NASA scientists are measuring nitrogen dioxide (NO2) and sulfur dioxide (SO2) from space",
-    "image": "assets/previews/7-greenhouse-gases-from-combustion_2387332e-dae2-435d-bbcd-cc3dc1071f43_preview.png",
+    "image": "assets/previews/7-greenhouse-gases-from-combustion_cef3cd38-0a4d-41c7-b25a-8d44ad6dab42_preview.png",
     "provider": "agency",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/air-pollution-us-india-china.md"
   },
@@ -427,7 +427,7 @@
     ],
     "title": "Forests on the Brink: Satellite Imagery unveiling Loss and Shifting Forest Landscapes",
     "subtitle": "Forest Loss and Degradation worldwide",
-    "image": "assets/previews/hero_c986c59a-57cf-4f0b-8ffc-6cedb9cc5ef2_preview.png",
+    "image": "assets/previews/hero_af81fd10-2fd7-472e-bdc0-65caed407cd0_preview.png",
     "provider": "agency",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/forest_loss_and_degradation.md"
   },
@@ -449,7 +449,7 @@
     ],
     "title": " During COVID-19 related lockdowns, air travel decreased",
     "subtitle": "How EO and AI can illustrate COVID-19 impacts on air travel",
-    "image": "assets/previews/Esa_Nasa_jaxa_covid19_cover_V3_0ce3d3fa-f88a-4cf1-a83a-9365c1a5cee8_preview.png",
+    "image": "assets/previews/Esa_Nasa_jaxa_covid19_cover_V3_1589ac13-a2c5-45de-8fd5-f0335c378e23_preview.png",
     "provider": "agency",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/airports.md"
   },
@@ -469,7 +469,7 @@
     ],
     "title": "Changing lakes due to human activity",
     "subtitle": "Read more about how human activities impact inland waters around the world",
-    "image": "assets/previews/Biwa_1bb1ff12-829f-4b6c-87e2-46c1af74dac8_preview.png",
+    "image": "assets/previews/Biwa_f5947798-d32d-4321-b096-5facd17bf038_preview.png",
     "provider": "agency",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/lakes-human-activity.md"
   },
@@ -489,7 +489,7 @@
     ],
     "title": " Travel restrictions interrupted Global Supply chains dependent on cargo shipping",
     "subtitle": "Covid-19 Impacts on global shipping, observed from satellites",
-    "image": "assets/previews/12-ship-traffic_76d6f884-f28a-4f38-b08e-75eeb6e8eb97_preview.png",
+    "image": "assets/previews/12-ship-traffic_99360cf7-d6be-43cc-ac97-04e52e4fe0e3_preview.png",
     "provider": "agency",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/shipping.md"
   },
@@ -509,7 +509,7 @@
     ],
     "title": " El Niño 2023–2024 (Part 4): Floods and Cyclone impacts in East Africa",
     "subtitle": "Read more about the observations of the severe impacts of El Niño in East Africa landscape",
-    "image": "assets/previews/Flooding_in_Tamale_Northern_Ghana_d2dbcd36-0aac-4d3d-b5f0-f4905540ba3c_preview.png",
+    "image": "assets/previews/Flooding_in_Tamale_Northern_Ghana_c32d3a91-017a-49af-9bdf-f5865ea7cd6f_preview.png",
     "provider": "agency",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/ElNinoPart4.md"
   },
@@ -532,7 +532,7 @@
     ],
     "title": "   Pine Island Glacier and Thwaites Glacier",
     "subtitle": "Two of the main pathways for ice from the West Antarctic Ice Sheet entering the Amundsen Sea",
-    "image": "assets/previews/NASA-thwaites-cover_ebd724d7-a4d7-478e-8498-6ec82393e69c_preview.png",
+    "image": "assets/previews/NASA-thwaites-cover_f570c1cc-7595-41d2-a8c4-58b15b9b5402_preview.png",
     "provider": "agency",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/nasa-thwaites.md"
   },
@@ -559,7 +559,7 @@
     ],
     "title": " Troubled Waters: Unraveling the Impacts of Climate Change on Inland Waters",
     "subtitle": "Read more about how Air Pollution affects Climate Change",
-    "image": "assets/previews/lakes_cover_69728408-a776-4b7e-b050-f9381723ba0f_preview.png",
+    "image": "assets/previews/lakes_cover_8cb4816d-37b7-4b00-ba1d-144ca4336dfb_preview.png",
     "provider": "agency",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/lakes-intro.md"
   },
@@ -579,7 +579,7 @@
     ],
     "title": "El Niño 2023-2024 (Part 1): Record-breaking temperatures",
     "subtitle": "Read more about observing land surface temperature from space",
-    "image": "assets/previews/cover-ai-1_fb470b93-cb20-479a-bd33-53093637704b_preview.png",
+    "image": "assets/previews/cover-ai-1_4ae643bf-0937-4def-807f-917991f66436_preview.png",
     "provider": "agency",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/record_breaking_temperatures.md"
   },
@@ -604,7 +604,7 @@
     ],
     "title": " Recent melting and darkening of the Greenland Ice Sheet",
     "subtitle": "JAXA's JASMES Greenland Monitor provides observations of Greenland Ice Sheet",
-    "image": "assets/previews/jaxa-greenland-cover_b76a311c-c83b-4d07-accc-b3107ba05b4d_preview.png",
+    "image": "assets/previews/jaxa-greenland-cover_b49749d8-abca-4334-ab22-62492744b635_preview.png",
     "provider": "agency",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/jaxa-greenland-melting-and-darkening.md"
   },
@@ -623,7 +623,7 @@
     ],
     "title": "Covid-19 Impact on the Automotive Industry",
     "subtitle": "The effect of lockdown on the automotive industry, observed from space",
-    "image": "assets/previews/hero_f94c54b0-fba0-4117-ad70-0ca6b7e3ea82_preview.png",
+    "image": "assets/previews/hero_a52d1c36-a12c-402c-b04a-2be2ad318f17_preview.png",
     "provider": "agency",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/covid-cars.md"
   },
@@ -642,7 +642,7 @@
     "offifial": false,
     "title": "Clustering Ocean Water Types Using Spectral EO Data",
     "subtitle": "Authors: Enrico Biscaro¹, William Luty², Katie Lowery³",
-    "image": "assets/previews/Ocean-Colour-CCI_.2e16d0ba.fill-600x314-c100.format-jpeg_fd5fc1f0-55e6-4b9a-b70d-542e25db298c_preview.png",
+    "image": "assets/previews/Ocean-Colour-CCI_.2e16d0ba.fill-600x314-c100.format-jpeg_fc61335c-5467-4bc3-abda-7f760a16317e_preview.png",
     "provider": "community",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/science-hub-team-2-story.md"
   },
@@ -667,7 +667,7 @@
     ],
     "title": "Farmlands North of Cairo absorb so much atmospheric CO2 it can be measured from space",
     "subtitle": "Satellite observations of solar-induced fluorescence shed light on plant photosynthetic activity",
-    "image": "assets/previews/3-agriculture-crops_20838c9e-756a-4ea4-bc7f-4bad2f0491f4_preview.png",
+    "image": "assets/previews/3-agriculture-crops_6fabc214-6cb8-45dc-a9d9-fe61799eac96_preview.png",
     "provider": "agency",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/cairo-farmlands.md"
   },
@@ -692,7 +692,7 @@
     ],
     "title": "  Measuring Thickness of Sea Ice in the Polar Oceans",
     "subtitle": "Read more about monitoring Sea Ice Freeboard & Thickness from Satellite Altimetry.",
-    "image": "assets/previews/CryoSat_7b14408c-c39b-438f-af9c-ca45f638ad6a_preview.png",
+    "image": "assets/previews/CryoSat_52d6575d-7e13-417b-87a4-e56befd03e62_preview.png",
     "provider": "agency",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/sea-ice-freeboard-thickness.md"
   },
@@ -722,7 +722,7 @@
     ],
     "title": "  A view from space monitors land cover and tree to track aboveground biomass and carbon content",
     "subtitle": "Read more about taking stock of global biomass maps",
-    "image": "assets/previews/Biomass_23df4e5c-758f-48fa-938a-685b585683cd_preview.png",
+    "image": "assets/previews/Biomass_36010536-9865-4422-a078-f0467ae3fdc0_preview.png",
     "provider": "agency",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/biomass-harmonization-activity.md"
   },
@@ -743,7 +743,7 @@
     "official": false,
     "title": "Wet snow mapping with multimodal foundation models - can we drop the reference?",
     "subtitle": "Authors: Leam Howe¹, Sean Ó Héir¹, Miguel Espinosa Minano¹",
-    "image": "assets/previews/Svalbard_pillars_42a9a3fd-c997-49fb-8ba6-4b152dd9831d_preview.png",
+    "image": "assets/previews/Svalbard_pillars_04b30583-ae1a-4611-a59f-ee80e584c863_preview.png",
     "provider": "community",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/science-hub-team-4-story.md"
   },
@@ -766,7 +766,7 @@
       "CV_Covid_19_cases"
     ],
     "title": "Observing Nighlights from Space",
-    "image": "assets/previews/nightlights_hero_fbf226bf-fc4e-442d-abd5-3dada19bbfb6_preview.png",
+    "image": "assets/previews/nightlights_hero_d678163d-684d-4900-9118-a94942a68e0d_preview.png",
     "provider": "agency",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/nightlights_from_space.md"
   },
@@ -787,7 +787,7 @@
     ],
     "title": "El Niño 2023-2024 (Part 2): Rising Global Sea Surface Temperatures",
     "subtitle": "Read more about record-breaking sea surface temperatures",
-    "image": "assets/previews/Crop_yield_pillars_d4b8c1c7-5427-442e-97d9-41ff9a6cfc6d_preview.png",
+    "image": "assets/previews/Crop_yield_pillars_31d2396e-b153-4913-be60-dc612306369c_preview.png",
     "provider": "agency",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/rising_global_sea_surface_temperatures.md"
   },
@@ -807,7 +807,7 @@
     ],
     "title": "Evaluating time series interpolation techniques for vegetation monitoring using remote sensing data",
     "subtitle": "Authors: Denise Hick¹, Frances O'Leary¹ and Mae Evans¹",
-    "image": "assets/previews/_92329176_c0157414-lowland_rainforest_danum_valley_sabah-spl.jpg_06be0c6c-fe93-4672-afc2-d000bf311be6_preview.png",
+    "image": "assets/previews/_92329176_c0157414-lowland_rainforest_danum_valley_sabah-spl.jpg_9ae2fcab-7767-42f3-8e5c-06d854403bcb_preview.png",
     "provider": "community",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/scienceHub_timeSeries_vegetation.md"
   },
@@ -832,7 +832,7 @@
     ],
     "title": "  Satellite images reveal a view of the ocean that is as rich and complex as that of land",
     "subtitle": "Read more about following the activity of plants in the ocean from space",
-    "image": "assets/previews/1-EO_PIX_Ocean_COVER_Photo_56ef4bad-c311-401b-b4e9-5f0b7fa9309e_preview.png",
+    "image": "assets/previews/1-EO_PIX_Ocean_COVER_Photo_4f7ed675-1486-468e-a254-9355d0beea20_preview.png",
     "provider": "agency",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/ocean_plants.md"
   },
@@ -855,7 +855,7 @@
     ],
     "title": "   Understanding climate change effects on water temperature and ocean currents is vital to managing these resources",
     "subtitle": "Read more about Satellite Sensors Tracking Ocean Color Changes to Predict Phytoplankton Health",
-    "image": "assets/previews/1-EO_PIX_Ocean_COVER_Photo_8a24a5e9-9190-417e-a380-aeaa32139f73_preview.png",
+    "image": "assets/previews/1-EO_PIX_Ocean_COVER_Photo_1f74ba66-f285-49bb-952c-48df072d7ada_preview.png",
     "provider": "agency",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/ocean-colours.md"
   },
@@ -875,7 +875,7 @@
     ],
     "title": "Antarctic Ice lows",
     "subtitle": "Unprecedented Antarctic Sea Ice Decline in 2023: Record Lows and Historic Anomalies",
-    "image": "assets/previews/theme-image_f72ed8f5-5fb0-49be-8c6b-a50d3879d6a4_preview.png",
+    "image": "assets/previews/theme-image_724c1632-de0e-495b-b57f-bcabfccd6e54_preview.png",
     "provider": "agency",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/antarctic_sea_ice_lows.md"
   },
@@ -898,7 +898,7 @@
     ],
     "title": " Changes in temperature, precipitation patterns and extremes impacting surface water hydrology",
     "subtitle": "Read more about monitoring these impacts with Earth Observations",
-    "image": "assets/previews/Alakol_Lake_8c9dfafe-1b8a-4630-90a9-8e65d3c8a0b8_preview.png",
+    "image": "assets/previews/Alakol_Lake_8c43b343-2d3a-45f6-be85-8a42e7e825cc_preview.png",
     "provider": "agency",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/lakes-climate.md"
   },
@@ -919,7 +919,7 @@
     ],
     "title": "Satellites are providing insights into agricultural production, crop conditions, and food supply",
     "subtitle": "Satellite data applications for environmental impacts on world cereal supply and demand (2022)",
-    "image": "assets/previews/12-ship-traffic_5ef902d2-bb9c-422f-abc4-458b3e732418_preview.png",
+    "image": "assets/previews/12-ship-traffic_3913c0a8-a917-4bf1-9300-1102b5e617a6_preview.png",
     "provider": "agency",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/world_crop_supply_and_demand.md"
   },
@@ -939,7 +939,7 @@
     ],
     "title": " One of the most important processes in nature is primary productivity",
     "subtitle": "Read more about how satellite sensors take the pulse of our marine ecosystems",
-    "image": "assets/previews/4-ocean-carbon_c565613d-c33e-4184-a7c6-09ef46adbe10_preview.png",
+    "image": "assets/previews/4-ocean-carbon_a1c5af17-0e89-4ae8-8bfc-fe0e6b3a5c6a_preview.png",
     "provider": "agency",
     "file": "https://ESA-eodashboards.github.io/eodashboard-narratives/primary-productivity.md"
   }
